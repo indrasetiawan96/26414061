@@ -12,5 +12,5 @@ for((i=0;i<n;i++))
         echo -e;
 }
 git add pola.sh
-git commit -m "Tugas Mngguan"
+git commit -m "Tugas Commit 23/09"
 git push
