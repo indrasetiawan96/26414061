@@ -29,7 +29,7 @@ for((i=0;i<=g;i=i+2))
         echo -e;
 }
 git add pola5.sh
-git commit -m "Tuga Commit 25/09"
+git commit -m "Tugas Commit 25/09"
 git push
 
 
