@@ -1,4 +1,4 @@
-o "MENU HARI INI";
+"MENU HARI INI";
 echo "-------------";
 echo "1. Bakso     ";
 echo "2. Gado-Gado ";
@@ -26,5 +26,5 @@ fi
 echo "Harga bayar = Rp. $bayar"
 echo "Terimakasih mz mb"
 git add pola6.sh
-git commit -m "Tugas 25/09"
+git commit -m "Tugas Commit 25/09"
 git push
