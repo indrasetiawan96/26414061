@@ -5,6 +5,6 @@ echo "$i,";
 let i=$i+2;
 done
 git add pola4.sh
-git commit -m "Tugas commit 23/09"
+git commit -m "Tugas Commit 23/09"
 git push
 
