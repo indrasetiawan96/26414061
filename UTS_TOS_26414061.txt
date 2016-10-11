@@ -1,0 +1,5 @@
+wget -0 no2.csv "http://stats.labs.apnic.net/ipv6/ID"
+git add UTS_TOS_26414061.txt
+git commit -m "no2"
+git push
+
