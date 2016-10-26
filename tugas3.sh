@@ -1,4 +1,3 @@
-#argumen2
 
 clear
 echo "Nama script anda : $0";
