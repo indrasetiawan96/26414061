@@ -1,4 +1,4 @@
-=0;
+i=0;
 bil_genap=0;
 bil_ganjil=0;
 
