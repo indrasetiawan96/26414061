@@ -8,5 +8,5 @@ echo    "User = $user"
 echo    "Password = $pass"
 echo    "Kesan selama pake linux = $kesan"
 git add t2.sh
-git commit -m "Tugas Commit 2/11"
+git commit -m "Tugas Commit 30/11"
 git push
