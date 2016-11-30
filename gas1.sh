@@ -14,5 +14,5 @@ case $binatang in
                   ;;
 esac
 git add gas1.sh
-git commit -m "Tugas Commit 30/10"
+git commit -m "Tugas Commit 30/11"
 git push
