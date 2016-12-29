@@ -18,7 +18,7 @@ do
 	do
 		if expr "$word" : '-\?[0-9]\+$' >/dev/null
 		then
-		  tot=$(($tot + $word)) 
+		  tot=$(($tot + 1)) 
 		fi		
 	done
 	
